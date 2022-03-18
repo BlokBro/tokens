@@ -1,0 +1,13 @@
+{
+ "name": "BlokBro",
+ "website": "https://blokbro.com",
+ "description": "BlokBro aims on providing a safe and secure spending environment for users within the crypto space for the first time; users can buy and sell goodsand services on any platform at any time, under the protection of a p2p escrow system. 
+
+",
+ "explorer": "https://bscscan.com/token/0xd83a442e2d0bdf3af4260ff020d48d8fda10f5f9",
+ "type": "BEP20",
+ "symbol": "BLKB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd83a442e2d0bdf3af4260ff020d48d8fda10f5f9"
+}
